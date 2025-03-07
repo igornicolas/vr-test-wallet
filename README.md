@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# vr-test-wallet
-=======
+
 # Wallet Test
 
 
@@ -42,4 +40,4 @@ npm run android
 - React-hook-form
 - Yup
 - Testing library
->>>>>>> d056d790f81f94ce8688c5d573d33e20941e0bea
+
