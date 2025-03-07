@@ -1,0 +1,32 @@
+{
+    "cards": [
+        {
+            "id": "4ec42ba9-50af-40d2-af90-8312edbd9ca2",
+            "number": "3529 5435 3355 8727",
+            "cvv": "317",
+            "name": "John Doe",
+            "expirationDate": "05/32"
+        },
+        {
+            "id": "21b2",
+            "number": "5555555555555555",
+            "cvv": "669",
+            "name": "Party Next Dor",
+            "expirationDate": "06/35"
+        },
+        {
+            "id": "1c8a",
+            "number": "3333333333333333",
+            "cvv": "252",
+            "name": "Lil Wagner",
+            "expirationDate": "06/25"
+        },
+        {
+            "id": "f031",
+            "number": "2222222222222222",
+            "cvv": "225",
+            "name": "Drama",
+            "expirationDate": "06/35"
+        }
+    ]
+}
